@@ -1,1 +1,3 @@
 # python-challenge
+
+Ok, this challenged pushed me. This was way more difficult than the prior VBA challenge by a longshot. Going from language to language has definitely scrambled my brains a bit. During the process I used a multitude of soruces, those being the zoom recordings, study group sessions, lurking in office hours, and a lot of online resources. I finally cracked and went to Stack Overflow and searched around to see if other people were running into problems with similar lines of code. This was by far the most challenging assignment by far but I'm sure this is nothing compared to what's coming up. 
